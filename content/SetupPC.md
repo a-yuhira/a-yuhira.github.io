@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setup your PC
-permalink: /SetupPC.htm
+permalink: /content/SetupPC.htm
 ---
 
 <div class="container">
