@@ -53,11 +53,13 @@ body
 .jumbotron h1
 {
   font-family: "Segoe UI Light","Segoe UI","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+  font-size:3em;
 }
 
 .jumbotron p
 {
   font-family: "Segoe UI Semibold","Segoe UI","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+  font-size:1.0em;
 }
 
 
@@ -82,7 +84,8 @@ body
 
 .HomepageTileLink
 {
-  font-size: 1em;
+  /*font-size: 1em;*/
+  font-size: 0.8em;
   color: #1e75bb;
   font-family: "Segoe UI Semibold","Segoe UI","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
   line-height: 1.429em;
