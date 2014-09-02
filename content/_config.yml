@@ -11,3 +11,4 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink: pretty
 # highlighter: pygments
 highlighter: rouge
+highlighter: pygments
