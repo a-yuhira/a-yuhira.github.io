@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sample Applications
-permalink: /SampleApps.htm
+permalink: /content/SampleApps.htm
 ---
 
 <!-- Main jumbotron for a primary marketing message or call to action -->

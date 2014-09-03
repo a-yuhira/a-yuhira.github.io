@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hello Blinky
-permalink: /HelloBlinky.htm
+permalink: /content/HelloBlinky.htm
 ---
 
 <div class="container">

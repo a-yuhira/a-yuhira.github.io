@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advanced Usage
-permalink: /AdvancedUsage.htm
+permalink: /content/AdvancedUsage.htm
 ---
 
 <div class="jumbotron">

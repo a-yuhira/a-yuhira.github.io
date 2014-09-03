@@ -1,7 +1,7 @@
 ---
 layout: code
 title: On Board Thermal
-permalink: /OnBoardThermal.htm
+permalink: /content/OnBoardThermal.htm
 ---
 # On Board Thermal Sample
 Learn how to use AnalogRead() to read values from the on-board thermal sensor.

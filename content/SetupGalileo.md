@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setup your Galileo
-permalink: /SetupGalileo.htm
+permalink: /content/SetupGalileo.htm
 ---
 
 <div class="container">

@@ -1,7 +1,7 @@
 ---
 layout: code
 title: Imaging on Windows 7
-permalink: /ImageOnWin7.htm
+permalink: /content/ImageOnWin7.htm
 ---
 
 # Imaging on Windows 7

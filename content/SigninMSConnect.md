@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Signing into Microsoft Connect
-permalink: /SigninMSConnect.htm
+permalink: /content/SigninMSConnect.htm
 ---
 
 <div class="container">

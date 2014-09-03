@@ -1,7 +1,7 @@
 ---
 layout: code
 title: 16x2 LCD
-permalink: /16x2LCD.htm
+permalink: /content/16x2LCD.htm
 ---
 
 # 16x2 LCD

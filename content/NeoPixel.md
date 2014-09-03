@@ -1,7 +1,7 @@
 ---
 layout: code
 title: NeoPixel
-permalink: /NeoPixel.htm
+permalink: /content/NeoPixel.htm
 ---
 
 # NeoPixel

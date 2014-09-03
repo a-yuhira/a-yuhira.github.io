@@ -1,7 +1,7 @@
 ---
 layout: code
 title: How to Contribute
-permalink: /Contribute.htm
+permalink: /content/Contribute.htm
 ---
 
 # How to Contribute

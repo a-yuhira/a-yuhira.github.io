@@ -1,7 +1,7 @@
 ---
 layout: code
 title: What's new
-permalink: /WhatsNew.htm
+permalink: /content/WhatsNew.htm
 ---
 
 # 8/18/2014

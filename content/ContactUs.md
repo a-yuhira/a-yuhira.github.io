@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Us
-permalink: /ContactUs.htm
+permalink: /content/ContactUs.htm
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Release Notes
-permalink: /ReleaseNotes.htm
+permalink: /content/ReleaseNotes.htm
 ---
 
 <div class="jumbotron">

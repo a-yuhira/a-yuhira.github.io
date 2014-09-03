@@ -1,7 +1,7 @@
 ---
 layout: code
 title: Standard Firmata
-permalink: /Firmata.htm
+permalink: /content/Firmata.htm
 ---
 
 # Firmata and Cylon

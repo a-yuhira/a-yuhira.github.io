@@ -1,7 +1,7 @@
 ---
 layout: code
 title: Updating your Intel Galileo
-permalink: /IBoughtAGalileo.htm
+permalink: /content/IBoughtAGalileo.htm
 ---
 
 # Running Windows on my Intel Galileo

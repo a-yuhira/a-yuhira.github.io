@@ -1,7 +1,7 @@
 ---
 layout: code
 title: Contribution Guidelines
-permalink: /ContributionGuidelines.htm
+permalink: /content/ContributionGuidelines.htm
 ---
 
 # Contribution Guidelines

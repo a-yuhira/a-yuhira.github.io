@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
-permalink: /TroubleShooting.htm
+permalink: /content/TroubleShooting.htm
 ---
 
 <div class="jumbotron">

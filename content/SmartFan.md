@@ -1,7 +1,7 @@
 ---
 layout: code
 title: Smart Fan
-permalink: /SmartFan.htm
+permalink: /content/SmartFan.htm
 ---
 
 # Smart Fan

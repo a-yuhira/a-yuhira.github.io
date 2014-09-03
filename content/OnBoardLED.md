@@ -1,7 +1,7 @@
 ---
 layout: code
 title: On Board LED
-permalink: /OnBoardLED.htm
+permalink: /content/OnBoardLED.htm
 ---
 
 # On Board LED
